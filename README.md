@@ -1,4 +1,4 @@
-# Dokumentacja Projektu Gry "2048" w Pygame
+# Gra "2048" w Pygame
 
 ## Spis Treści
 
