@@ -24,7 +24,7 @@ Projekt przedstawia implementację popularnej gry "2048" w języku Python, wykor
 
 ## Struktura Projektu
 
-Projekt składa się z jednego pliku źródłowego, który zawiera całą logikę gry, w tym inicjalizację Pygame, logikę gry, rysowanie interfejsu użytkownika oraz obsługę zdarzeń.
+Projekt składa się z jednego pliku źródłowego, który zawiera całą logikę gry, w tym inicjalizację Pygame, rysowanie interfejsu użytkownika oraz obsługę zdarzeń.
 
 ## Opis głównych funkcji
 
